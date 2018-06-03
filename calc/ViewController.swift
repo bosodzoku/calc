@@ -5,7 +5,7 @@ enum Operation: String {
     case Subtract = "-"
     case Multiply = "*"
     case Divide = "/"
-    case NULL = "Null"
+    case NULL = ""
 }
 
 class ViewController: UIViewController {
